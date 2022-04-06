@@ -1,0 +1,41 @@
+#otros {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+}
+
+footer{
+    position: relative;
+    margin-top: 0px;
+    width: 100%;
+    padding: 50px;
+    clear: both;
+    background: darkgreen;
+    text-align: center;
+    color: darkgreen;
+    vertical-align: bottom ;
+}
+
+.btnindex{ 
+    position: relative;
+    background-color: green;
+    color:white;
+    font-size: 15px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 600px;
+}
+
+body {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    display: flex;
+    flex-direction: column;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
