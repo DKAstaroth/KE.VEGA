@@ -183,3 +183,63 @@ body{
     text-align: center;
     margin: auto;
 }
+
+/*cuerpo de la pagina*/
+
+div.col-sm-4{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  
+div.col-sm-4:hover {
+    border: 1px solid #777;
+  }
+  
+div.col-sm-4 img {
+    width: 100%;
+    height: auto;
+  }
+  
+div.col-sm-4 {
+    padding: 15px;
+    text-align: center;
+  }
+
+/*registro vista*/
+
+.iniciar
+{
+    position:absolute;
+    right: 5%;
+    bottom: 27%;
+    color:crimson;
+    text-decoration: none;
+    font-weight: bold;
+    
+
+}
+
+.iniciar:hover
+{
+    position:absolute;
+    right: 5%;
+    bottom: 27%;
+    color:rgb(255, 254, 208);
+    text-shadow: 0 0 10px rgb(253, 255, 127), 0 0 20px rgb(255, 235, 121), 0 0 30px #e6e200, 0 0 40px #e6cf00, 0 0 50px #e69600, 0 0 60px #e67b00, 0 0 70px #e64100;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.smalllink
+{
+    font-size: small;
+    text-decoration: none;
+
+}
+
+#1{
+    float: right;
+}
+
